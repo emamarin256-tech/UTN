@@ -51,3 +51,10 @@ Los trabajos integradores incluyen distintos recursos para comunicar y documenta
 Como parte de las consignas, se requiere utilizar al menos tres herramientas de inteligencia artificial durante el desarrollo de los trabajos. Su utilización debe quedar documentada mediante un registro de las consultas e iteraciones realizadas, acompañado de una explicación de los aportes de cada herramienta.
 
 También se contempla la reflexión sobre sus ventajas y desventajas, su utilidad para analizar los problemas y su aplicación en el desarrollo del código. Estos aspectos forman parte de la documentación y de la presentación de los proyectos.
+
+## Contenido de las carpetas
+
+| Carpeta | Material incluido |
+|---|---|
+| **Durante la cursada** | Actividades y trabajos prácticos sobre teoría de conjuntos y lógica (Módulos 3 y 4). |
+| **Integrador** | Dos trabajos prácticos integradores que relacionan matemática y programación en Python. Incluyen resoluciones matemáticas, código fuente, presentaciones, documentación del uso de IA y, en el segundo integrador, un video explicativo. |
